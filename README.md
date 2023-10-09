@@ -22,7 +22,7 @@ Welcome to SiteSwift, where we empower you to elevate your web presence with top
 
 ## Overview
 
-![img](assets/design/webhosting-mobile.JPG)
+![img](assets/design/webhostingdesktop.JPG)
 
 <!-- ### Screenshot
 
